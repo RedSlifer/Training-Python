@@ -1,1 +1,1 @@
-Repository for Python exercises
+Repository for algorithms written in C++ Language
