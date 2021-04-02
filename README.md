@@ -1,1 +1,1 @@
-Repository for algorithms written in C++ Language
+Repository for algorithms written in Python Language
